@@ -20,11 +20,18 @@ Gnarly Grey UPDuino Board Features:
     
     Open source schematic and layout using free Eagle PCB design tools
         Download Schematic & Layout
+                UPDuino_v1_0.tar
         Schematic PDF
+                UPDUINO_SCH_v1_0.pdf
         FT232H Programming Instructions
+                UPDuino Programming FT232H.docx
         Raspberry Pi Programming Instructions
+                UPDuino Programming with RPi 20170626.pdf
         Raspberry Pi Programming Files
+                UPDuino_with_RPi_20170626.tar
         RGB LED Example Project
+                RGB_LED_BLINK_20170606.tar
         Raspberry PI IO Expansion
+                UPDuino_IOX_20170908.tar
 
 
